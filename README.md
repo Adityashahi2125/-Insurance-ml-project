@@ -118,7 +118,6 @@ smoker  → is_smoker
 
 The region feature is converted into numerical dummy variables using one-hot encoding.
 
-⸻
 
 # 🛠️ Feature Engineering and Feature Extraction
 
